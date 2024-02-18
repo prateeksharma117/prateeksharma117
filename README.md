@@ -9,10 +9,6 @@
 
 ###
 
-<img align="right" height="150" src="https://img.freepik.com/free-vector/laptop-with-program-code-isometric-icon-software-development-programming-applications-dark-neon_39422-971.jpg?w=826&t=st=1708229068~exp=1708229668~hmac=132fdcaba0ab0bacc05b08c81592d0cc8296dab96234b34cd4a16036a2754a07"  />
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -56,6 +52,10 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
 </div>
+
+###
+
+<img align="right" height="150" src="https://img.freepik.com/free-vector/laptop-with-program-code-isometric-icon-software-development-programming-applications-dark-neon_39422-971.jpg?w=826&t=st=1708229068~exp=1708229668~hmac=132fdcaba0ab0bacc05b08c81592d0cc8296dab96234b34cd4a16036a2754a07"  />
 
 ###
 
